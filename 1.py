@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 
 
+"""
+Find the sum of all the multiples of 3 or 5 below 1000.
+"""
+
+
 def solve():
     """
         Adds the numbers divisible by those in div_set
