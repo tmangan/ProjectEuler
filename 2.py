@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 
 
+"""
+By considering the terms in the Fibonacci sequence whose values do not exceed four million,
+find the sum of the even-valued terms.
+"""
+
 def solve(largest_n):
     """
         returns the sum of even valued fibonacci numbers up to largest_n
