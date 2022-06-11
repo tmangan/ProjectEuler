@@ -27,6 +27,7 @@ def solve(upper_bound):
 
     return answer
 
+
 def make_prime_list(upper_bound):
     primes = [2]
     for i in range(3, upper_bound):
